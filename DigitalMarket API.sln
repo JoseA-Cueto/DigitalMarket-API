@@ -5,6 +5,11 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalMarket API", "DigitalMarket API.csproj", "{93E738CD-4CFE-4F30-A8EC-CDC75355FC4A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{AE83AEEA-7050-48CE-9E03-B7D7B432C5B2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\sqlite-dll-win-x64-3450100\sqlite3.dll = ..\..\..\Downloads\sqlite-dll-win-x64-3450100\sqlite3.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
